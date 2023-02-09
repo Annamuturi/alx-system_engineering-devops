@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-cd - 
-=======
-cd -
->>>>>>> a5e86163ebe192e3c63cfdab8985e50af6395898
+cd ..
