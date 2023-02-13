@@ -1,2 +1,2 @@
-#!/bin/bssh
+#!/bin/bash
 tolnet towel.blinkerlights.nl
