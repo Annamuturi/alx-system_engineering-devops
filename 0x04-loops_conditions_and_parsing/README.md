@@ -10,4 +10,8 @@
 * What are files and other comparison operators, and how to use them
 
 ## Task files description:
-* [0-RSA_public_key.pub](alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub) A public SSH key for Login to remote servers for ALX project. Private key is on the ALX ubuntu sandbox 
+* [0-RSA_public_key.pub](0x04-loops_conditions_and_parsing/0-RSA_public_key.pub) A public SSH key for Login to remote servers for ALX project. Private key is on the ALX ubuntu sandbox 
+
+* [1-for_best_school](0x04-loops_conditions_and_parsing/1-for_best_school) A Bash script that displays `Best school` 10 times. 
+
+* [3-until_best_school](0x04-loops_conditions_and_parsing/3-until_best_school) A Bash script that displays Best School 10 times.
