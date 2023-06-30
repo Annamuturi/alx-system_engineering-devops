@@ -4,13 +4,12 @@
 
 count=0
 
-while [ $count -le 10 ]
+while [ $count -lt 10 ]
 do
 	if [ $count -eq 9 ]
 	then
 		echo "Hi"
-	else
-		echo "Best school"
 	fi
+	echo "Best school"
 	((count++))
 done
