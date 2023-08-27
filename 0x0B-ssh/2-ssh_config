@@ -1,0 +1,13 @@
+# SSH client configuration
+# Edit this file: vi /etc/ssh/ssh_config
+
+# Apply settings for the specific server with IP address 34.224.1.73
+Host 34.224.1.73
+      # Disable password authentication
+      PasswordAuthentication no
+      # Use the private key for authentication
+      IdentityFile ~/.ssh/school
+   
+# Note: If a passphrase is set for the private key, you may need to use it for authentication.
+# To remove the passphrase, use: ssh-keygen -p -f ~/.ssh/school
+
